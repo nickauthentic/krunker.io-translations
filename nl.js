@@ -313,7 +313,7 @@ settings.gameplay.sensitivityY Y Gevoeligheid
 settings.gameplay.aimsensX Aim X Gevoeligheid
 settings.gameplay.aimsensY Aim Y Gevoeligheid
 settings.gameplay.challenge Uitdagings Modus
-settings.gameplay.invert Keer X-axis om
+settings.gameplay.invert Keer X-as om
 settings.gameplay.onkillS On Kills
 settings.gameplay.scrollDir Scroll Richting
 settings.controller.header Controller
@@ -327,7 +327,7 @@ settings.controller.deadZoneR Dode Zone (Rechts)-
 settings.controller.triggerThres Trigger Threshold
 settings.controller.vibration Vibratie
 settings.controller.gradSpeed Geleidelijke Snelheid
-settings.controller.invert Keer Y-Axis om
+settings.controller.invert Keer Y-As om
 settings.mobile.header Mobiel
 settings.mobile.sensitivityX X Gevoeligheid
 settings.mobile.sensitivityY Y Gevoeligheid
@@ -335,7 +335,7 @@ settings.mobile.aimsensX Aim X Gevoeligheid
 settings.mobile.aimsensY Aim Y Gevoeligheid
 settings.mobile.vibration Vibratie
 settings.mobile.gradSpeed Geleidelijke Snelheid
-settings.mobile.invert Keer Y-Axis om
+settings.mobile.invert Keer Y-As om
 settings.audio.header Audio
 settings.audio.sound Meester Volume
 settings.audio.ambient Omringende Volume
@@ -685,7 +685,7 @@ custom.map.upload.limit Mislukt. 500k Karakter Game Data Limiet
 custom.map.missing Selecteer tenminste één Game of Map 
 custom.mode.missing Selecteer tenminste één Mode
 custom.class.missing Selecteer tenminste één Class
-server.config.maxPlayers Spelers
+server.config.maxPlayers Max Spelers
 server.config.minPlayers Min Spelers
 server.config.lives Levens
 server.config.gameTime Minuten
@@ -858,9 +858,9 @@ windows.playerlist.punish Weet je zeker dat je actie wilt ondernemen op {0}?
 item.view.open Open Model Viewer
 item.view.more Meer Informatie
 item.sell.cant Dit Item Kan Niet Verkocht Worden.
-item.sell.cant.krunker Item cant be sold on krunker.
+item.sell.cant.krunker Item kan niet verkocht worden op Krunker. 
 item.sell.quick Weet Je Zeker Dat Je Dit Snel Wilt Verkopen {0}?
-item.sell.destroy Are you sure you want to Destroy {0}?
+item.sell.destroy weet je zeker dat je dit wilt kapotmaken {0}?
 social.profile.stats Algemene Statistieken
 social.profile.class Class Statistieken
 social.profile.sales Verkopen
